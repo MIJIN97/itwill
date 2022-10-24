@@ -1,0 +1,6 @@
+순서, 컬럼영문명, 컬럼한글명, 데이터타입, 길이, PK여부, NOT NULL여부
+1,YM,년월,VARCHAR,7,Y,N
+2,TIZN,시간대,VARCHAR,100,Y,N
+3,TOTL_FUDPUL_CNT,총유동인구수,NUMBER,10,N,Y
+4,EMD_CD,읍면동코드,VARCHAR,10,Y,N
+5,EMD_NM,읍면동이름,VARCHAR,255,N,N
